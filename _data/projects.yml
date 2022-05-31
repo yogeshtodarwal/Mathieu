@@ -14,8 +14,14 @@
 #     - tag: Node
 
 - name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  descr: "Design of enantioselective reaction has been always a very exciting and challenging domain in
+chemistry. The origin of selectivity is often guided by proper choice of asymmetric catalyst. Transition state
+modelling using Density Functional Theory has been the standard way out to decipher the origin of selectivity.
+Recently statistical modelling using linear regression method in chemical reactions has been emerging as a
+powerful tool to model chemical reactions. In this study, we are trying to develop machine learning methods
+(Feature Selection and Neural Network) in the context of chemical catalysis. " 
+  # remove "#" if you have link for project report of webpage
+#  demo: https://example.com/
   tags:
     - tag: MongoDB
     - tag: Express
