@@ -55,6 +55,9 @@ intramolecular SET. This model is validated with experiments for a similar react
 project involves dealing SET barrier that falls in negative Marcus region. In summary, calculation manifest that
 reaction goes through reductive quenching pathways via small preference for radical conjugate addition over
 radical-radical cross coupling mechanism."
+tags:
+  -tag: Gaussian
+  -tag: Merging photoredox with organocatalysis
   
 - name: project Y
   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
