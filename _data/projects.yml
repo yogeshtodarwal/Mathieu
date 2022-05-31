@@ -13,14 +13,25 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Development of Machine Learning Techniques to Address the Diastereoselectivity for oxazole
-Catalyzed Asymmetric Reactions.
-  descr: "Design of enantioselective reaction has been always a very exciting and challenging domain in
+- name: Development of Machine Learning Techniques to Address the Diastereoselectivity for oxazole Catalyzed Asymmetric Reactions
+  descr: " Description: Design of enantioselective reaction has been always a very exciting and challenging domain in
 chemistry. The origin of selectivity is often guided by proper choice of asymmetric catalyst. Transition state
 modelling using Density Functional Theory has been the standard way out to decipher the origin of selectivity.
 Recently statistical modelling using linear regression method in chemical reactions has been emerging as a
 powerful tool to model chemical reactions. In this study, we are trying to develop machine learning methods
-(Feature Selection and Neural Network) in the context of chemical catalysis. " 
+(Feature Selection and Neural Network) in the context of chemical catalysis. 
+
+Asymmetric catalysis using chiral oxazole ligands has been established as a promising methodology in
+cyclopropanation, aziridination, arylation, diels-alder reactions. In this project, we have extracted information
+in form of quantum chemical features and map on to enantiomeric excess by employing neural network tools.
+We have built a generalized model for an asymmetric reaction using chiral oxazole ligands. An extensive dataset
+has been formed from experimentally validated catalysts. The parameters (steric and electronic) are selected
+from the optimized catalyst geometry. Feature selection algorithm provides us the chemical insight from the
+whole dataset. The high ranked parameters have been used for neural network modelling. We have been able
+to predict enantioselectivity efficiently by using this tool. Simultaneously we have also expanded the reaction
+library using this model and came up with some excellent ligands in terms of enantioselectivity. In this way, we
+have designed a powerful tool in this study which can be used for a wide variety of chemical problems.
+" 
   # remove "#" if you have link for project report of webpage
 #  demo: https://example.com/
   tags:
