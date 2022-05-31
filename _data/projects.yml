@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Development of Machine Learning Techniques to Address the Diastereoselectivity for oxazole Catalyzed Asymmetric Reactions
-  descr: " Description: Design of enantioselective reaction has been always a very exciting and challenging domain in
+  descr: ' Description: Design of enantioselective reaction has been always a very exciting and challenging domain in
 chemistry. The origin of selectivity is often guided by proper choice of asymmetric catalyst. Transition state
 modelling using Density Functional Theory has been the standard way out to decipher the origin of selectivity.
 Recently statistical modelling using linear regression method in chemical reactions has been emerging as a
@@ -31,7 +31,7 @@ whole dataset. The high ranked parameters have been used for neural network mode
 to predict enantioselectivity efficiently by using this tool. Simultaneously we have also expanded the reaction
 library using this model and came up with some excellent ligands in terms of enantioselectivity. In this way, we
 have designed a powerful tool in this study which can be used for a wide variety of chemical problems.
-" 
+'
   # remove "#" if you have link for project report of webpage
 #  demo: https://example.com/
   tags:
