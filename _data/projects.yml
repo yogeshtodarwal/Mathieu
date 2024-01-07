@@ -20,7 +20,7 @@ modelling using Density Functional Theory has been the standard way out to decip
 Recently statistical modelling using linear regression method in chemical reactions has been emerging as a
 powerful tool to model chemical reactions. In this study, we are trying to develop machine learning methods
 (Feature Selection and Neural Network) in the context of chemical catalysis. 
-\n
+\n\n
 Asymmetric catalysis using chiral oxazole ligands has been established as a promising methodology in
 cyclopropanation, aziridination, arylation, diels-alder reactions. In this project, we have extracted information
 in form of quantum chemical features and map on to enantiomeric excess by employing neural network tools.
@@ -58,8 +58,3 @@ radical-radical cross coupling mechanism."
     -tag: Gaussian
     -tag: Merging photoredox with organocatalysis
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  tags:
-    - tag: Python
-    - tag: Django
