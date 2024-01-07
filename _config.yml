@@ -36,7 +36,7 @@ about_me_title: About Me
 ##----
 
 # about_me_description: This will be displayed under the title.
-about_me_description: |
+about_me_description: >
   Career Goal:
   As I transition from academia to industry, I am keen to employ my profound expertise in theoretical model development, advanced simulations, and machine learning methodologies. I am driven by the prospect of harnessing these skills to tackle pressing industry-centric challenges, pushing the boundaries of innovation and achieving meaningful results.|
 
