@@ -57,3 +57,23 @@ radical-radical cross coupling mechanism."
   tags:
     -tag: Gaussian
     -tag: Merging photoredox with organocatalysis
+
+- name: Mechanistic investigation of enantioselective formation of quaternary carbon by combination of photoredox and organocatalysis
+  descr: "Merging photoredox with organocatalysis has gained importance in the asymmetric alkylation of
+aldehydes, formation of enantioselective quaternary carbons, direct β-functionalization of saturated carbonyl
+compounds, etc. Till date, there has been significant development on modeling catalyst to give enantioselective
+quaternary carbon formation by exploring polar reactivity, However, exploiting radicals is not much successful
+despite the fact that they are more reactive. In this prospect, Murphy et al. in April 2017 have developed a
+reaction to form a quaternary carbon which is important to the modern organic chemist.
+Formation of quaternary carbon mainly takes place via two important pathways: radical-radical cross-coupling
+or conjugate addition of radical to enone followed by intermolecular single electron transfer (SET). In both the
+cases, it was found that activation barrier for stereoselective transition state is not important as compare to
+SET barriers. Further, a fragment-based model was developed to account for an effect of substrate on
+intramolecular SET. This model is validated with experiments for a similar reaction. A major challenge in this
+project involves dealing SET barrier that falls in negative Marcus region. In summary, calculation manifest that
+reaction goes through reductive quenching pathways via small preference for radical conjugate addition over
+radical-radical cross coupling mechanism."
+  tags:
+    -tag: Gaussian
+    -tag: Merging photoredox with organocatalysis
+  
