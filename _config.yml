@@ -41,7 +41,7 @@ about_me_description: |
   As a researcher, I have a wealth of experience in a range of cutting-edge computational techniques and methodologies. My expertise includes finding mechanistic pathways, performing molecular dynamic simulations involving millions of atoms, developing force fields, and utilizing machine learning to gain new insights into complex chemical systems. I am dedicated to advancing our understanding of the molecular world and utilizing computational tools to drive new discoveries and innovations in a wide range of fields, from pharmaceuticals to materials science. With my unique skill set and passion for research, I am confident in my ability to make significant contributions to the field of computational chemistry and beyond.
 
 
-show_aboutme_card: true
+show_aboutme_card2: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me2
 # about_me_description: This will be displayed under the title.
