@@ -89,8 +89,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: checkout more details about me at <a class="highlight-link" href="https://scholar.google.com/citations?user=TFLGBFwAAAAJ&hl=en" target="_blank" rel="noreferrer"> 
-Google Scholar </a>.
+contact_description: checkout more details about me at <a class="highlight-link" href="https://scholar.google.com/citations?user=TFLGBFwAAAAJ&hl=en" target="_blank" rel="noreferrer"> Google Scholar </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
