@@ -14,7 +14,7 @@
 #- name: React
  # weight: 4
 
-- name: polarizable Embedding
+- name: Polarizable Embedding
   weight: 4
 
 - name: Molecular Dynamics
