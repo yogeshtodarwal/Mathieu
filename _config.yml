@@ -34,8 +34,30 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Completed my Integrated MSc from IIT bombay,India. Currently pursuing PhD from KTH,Sweden. My PhD research is about early stage detection of alzheimer disease.   
+about_me_description: 
+##----
 
+# CAREER GOAL SECTION
+# setting this to true, will display the Career Goal section
+# setting this to false, will omit the Career Goal section
+show_career_goal_card: true
+# career_goal_title: This will be displayed as the title in the Career Goal section
+career_goal_title: Career Goal
+# career_goal_description: This will be displayed under the title.
+career_goal_description: |
+  As I transition from academia to industry, I am keen to employ my profound expertise in theoretical model development, advanced simulations, and machine learning methodologies. I am driven by the prospect of harnessing these skills to tackle pressing industry-centric challenges, pushing the boundaries of innovation and achieving meaningful results.
+
+# PROFILE SECTION
+# setting this to true, will display the Profile section
+# setting this to false, will omit the Profile section
+show_profile_card: true
+# profile_title: This will be displayed as the title in the Profile section
+profile_title: Profile
+# profile_description: This will be displayed under the title.
+profile_description: |
+  As a researcher, I have a wealth of experience in a range of cutting-edge computational techniques and methodologies. My expertise includes finding mechanistic pathways, performing molecular dynamic simulations involving millions of atoms, developing force fields, and utilizing machine learning to gain new insights into complex chemical systems. I am dedicated to advancing our understanding of the molecular world and utilizing computational tools to drive new discoveries and innovations in a wide range of fields, from pharmaceuticals to materials science. With my unique skill set and passion for research, I am confident in my ability to make significant contributions to the field of computational chemistry and beyond.
+
+##----
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
