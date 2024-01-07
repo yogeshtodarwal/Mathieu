@@ -11,26 +11,20 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: HPC
   weight: 3
 
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: MD_Analysis
   weight: 4
 
-- name: VS Code
+- name: Gromacs
+  weight: 5
+
+- name: Gaussian
+  weight: 5
+
+- name: Dalton
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: VeloxChem
+  weight: 3
