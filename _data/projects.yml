@@ -55,8 +55,8 @@ project involves dealing SET barrier that falls in negative Marcus region. In su
 reaction goes through reductive quenching pathways via small preference for radical conjugate addition over
 radical-radical cross coupling mechanism."
   tags:
-    -tag: Gaussian
-    -tag: Merging photoredox with organocatalysis
+    - tag: Gaussian
+    - tag: Merging photoredox with organocatalysis
 
 
 # Example of a project
