@@ -7,11 +7,11 @@ title: Yogesh Todarwal
 description: Personal website 
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/yogi_cv"
+baseurl: "/Mathieu"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Yogesh Todarwal
+username: Mathieu
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Learner, Zumba lover, Computational chemist 
